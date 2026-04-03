@@ -91,6 +91,22 @@ main p {
   margin: 1rem 0;
 }
 
+#btn-compartilhar {
+  padding: 10px 20px;
+  cursor: pointer;
+  border: 2px solid #dfdfdf;
+  border-radius: 5px;
+}
+
+#link-topo {
+  color: #db8727;
+  text-decoration: none;
+  font-weight: bold;
+  margin-top: 24px;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
 @media (max-width: 600px) {
   main {
     padding: 2rem;
